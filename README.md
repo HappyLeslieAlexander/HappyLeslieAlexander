@@ -10,7 +10,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 🙋‍♂️ Connect with me
 - 📝 My blog: [https://github.com/HappyLeslieAlexander](https://github.com/HappyLeslieAlexander)
-- 📫 My E-mail: [HappyLeslieAlexander@duck.com](mailto:HappyLeslieAlexander@duck.com)
+- 📫 My E-mail: [HappyLeslieAlexander@duck.com]
 - ✈ My Telegram: [@LeslieAlexander](https://t.me/LeslieAlexander)
 
 ## 🖥️ My Platforms
@@ -32,12 +32,5 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=HappyLeslieAlexander&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07"/>
-  </a>
-</p>
-
-## ⚡ Contribution Graph
-<p align="left">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=HappyLeslieAlexander&theme=github&area=true&hide_border=true"/>
   </a>
 </p>
