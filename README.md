@@ -19,7 +19,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
 ## 📊 Profile Stats
-![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyLeslieAlexander&theme=vue-dark&show_icons=true)
+![HappyLeslieAlexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=HappyLeslieAlexander&theme=vue-dark&show_icons=true)
 
 ## 🏆 My Trophies
 <p align="left">
