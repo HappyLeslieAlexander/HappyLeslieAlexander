@@ -9,7 +9,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 ## 🙋‍♂️ Connect with me
-- 📝 My blog: [https://leslieblog.top](https://leslieblog.top))
+- 📝 My blog: [https://leslieblog.top](https://leslieblog.top)
 - 📫 My E-mail: [HappyLeslieAlexander@duck.com]
 - ✈ My Telegram: [@LeslieAlexander](https://t.me/LeslieAlexander)
 
