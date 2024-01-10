@@ -27,10 +27,3 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     <img src="https://github-profile-trophy.vercel.app/?username=HappyLeslieAlexander&theme=flat&no-frame=true&column=9"/>
   </a>
 </p>
-
-## 🔥 Streak Stats
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=HappyLeslieAlexander&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07"/>
-  </a>
-</p>
