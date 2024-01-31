@@ -11,7 +11,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## 🙋‍♂️ Connect with me
 - 📝 My blog: [https://leslieblog.top](https://leslieblog.top)
 - 📫 My E-mail: Leslie@leslieblog.top
-- ✈ My Telegram: [@DepressedLeslieAlexander](https://t.me/DepressedLeslieAlexander)
+- ✈ My Telegram: [@xhLeslie](https://t.me/xhLeslie)
 
 ## 🖥️ My Platforms
 [![](https://img.shields.io/badge/OS-Deepin-33aadd?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org/)
